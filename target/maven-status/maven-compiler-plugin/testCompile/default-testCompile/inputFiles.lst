@@ -1,4 +1,6 @@
-C:\Users\saifu\eclipse-workspace\CucumberPOMSeries\src\test\java\AppsHookes\ApplicationHook.java
-C:\Users\saifu\eclipse-workspace\CucumberPOMSeries\src\test\java\stepdefinitions\AccountPageSteps.java
-C:\Users\saifu\eclipse-workspace\CucumberPOMSeries\src\test\java\stepdefinitions\Loginsteps.java
+C:\Users\saifu\eclipse-workspace\CucumberPOMSeries\src\test\java\Parallel\AccountPageSteps.java
+C:\Users\saifu\eclipse-workspace\CucumberPOMSeries\src\test\java\Parallel\Loginsteps.java
+C:\Users\saifu\eclipse-workspace\CucumberPOMSeries\src\test\java\Parallel\ParallTestRunner.java
+C:\Users\saifu\eclipse-workspace\CucumberPOMSeries\src\test\java\Parallel\ApplicationHook.java
+C:\Users\saifu\eclipse-workspace\CucumberPOMSeries\src\test\java\Parallel\ContactUs.java
 C:\Users\saifu\eclipse-workspace\CucumberPOMSeries\src\test\java\TestRunner\MyTestRunner.java
